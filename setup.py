@@ -3,8 +3,8 @@ from setuptools import setup
 
 setup(
     name='nose-timing',
-    version='0.1',
-    description='Useful nose timinmg',
+    version='0.1.1',
+    description='Timing plugin for nose',
     long_description=open('README.rst').read(),
     author='Andy McKay',
     author_email='andym@mozilla.com',
